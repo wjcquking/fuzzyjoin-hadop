@@ -33,6 +33,7 @@ import edu.uci.ics.fuzzyjoin.hadoop.ridpairs.RIDPairsImproved;
 import edu.uci.ics.fuzzyjoin.hadoop.ridpairs.RIDPairsPPJoin;
 import edu.uci.ics.fuzzyjoin.hadoop.tokens.TokensBasic;
 
+//fuzzy join
 public class FuzzyJoin {
     public static void bib(String[] args) throws IOException {
         TokensBasic.main(args);
